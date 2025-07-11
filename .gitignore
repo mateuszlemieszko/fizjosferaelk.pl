@@ -1,0 +1,29 @@
+# Zależności
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Pliki systemowe
+.DS_Store
+Thumbs.db
+*.log
+
+# Pliki IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Pliki tymczasowe
+*.tmp
+*.temp
+
+# Pliki konfiguracyjne środowiska
+.env
+.env.local
+.env.production
+
+# Pliki wygenerowane przez Wrangler
+.wrangler/
+dist/

@@ -1,0 +1,22 @@
+{
+  "name": "fizjosferaelk-pl",
+  "version": "1.0.0",
+  "description": "Strona internetowa fizjosferaelk.pl",
+  "main": "index.html",
+  "scripts": {
+    "serve": "npx serve .",
+    "deploy": "wrangler pages publish . --project-name fizjosferaelk-pl"
+  },
+  "keywords": [
+    "portfolio",
+    "website",
+    "html",
+    "css",
+    "javascript"
+  ],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "serve": "^14.0.0"
+  }
+}

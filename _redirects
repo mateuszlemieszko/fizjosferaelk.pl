@@ -1,0 +1,8 @@
+# Przekierowania dla fizjosferaelk.pl
+
+# Przekierowanie na główną stronę dla nieistniejących plików
+/* /index.html 200
+
+# Przekierowanie na HTTPS (jeśli potrzebne)
+# http://fizjosferaelk.pl/* https://fizjosferaelk.pl/:splat 301!
+# http://www.fizjosferaelk.pl/* https://fizjosferaelk.pl/:splat 301!

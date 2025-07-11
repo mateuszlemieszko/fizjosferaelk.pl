@@ -1,0 +1,13 @@
+name = "fizjosferaelk-pl"
+compatibility_date = "2024-01-01"
+
+[env.production]
+name = "fizjosferaelk-pl"
+compatibility_date = "2024-01-01"
+
+[build]
+command = ""
+publish = "."
+
+[build.environment_variables]
+# Nie są potrzebne dla statycznej strony HTML
