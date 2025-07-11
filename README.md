@@ -1,0 +1,1 @@
+# fizjosferaelk.pl
